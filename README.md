@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react , node , gsap ,next , three**
 
-- 📫 How to reach me **harkrish2504@gmail.com**
+- 📫 How to reach me **harikrishnanr.dev@gmail.com**
 
 - ⚡ Motive **Meant for learning**
 
