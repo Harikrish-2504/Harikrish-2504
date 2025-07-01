@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm HARIKRISHNAN R</h1>
 <h3 align="center">A passionate Full Stack developer from Kerala</h3>
 
-- 🔭 I’m currently working on **Stackmod Innovations pvt ltd**
-
 - 🌱 I’m currently learning **Full Stack Web developement using MERN**
 
 - 👨‍💻 All of my projects are available at [https://harikrishnan-dev-portfolio.netlify.app/](https://harikrishnan-dev-portfolio.netlify.app/)
